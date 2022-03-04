@@ -1,66 +1,61 @@
 using System;
 using System.Collections.Generic;
+using System.Linq;
+using System.ComponentModel.DataAnnotations;
+using Repository;
 
 namespace Models
 {
     public class Agendamento
     {
-        public static int ID = 0;
-        private static List<Agendamento> Agendamentos = new List<Agendamento>();
         public int Id { set; get; }
-        public int IdPaciente { set; get; }
-        public Paciente Paciente { get; }
-        public int IdDentista { set; get; }
-        public Dentista Dentista { get; }
-        public int IdSala { set; get; }
+
+        [Required]
+        public int PacienteId { set; get; }
+        public Paciente Pacientes { get; }
+
+        [Required]
+        public int DentistaId { set; get; }
+        public Dentista Dentistas { get; }
+
+        [Required]
+        public int SalaId { set; get; }
         public Sala Sala { get; }
-        public DateTime Data { set; get; }
+
+        [Required]
+        public DateTime Datas { set; get; }
         public bool Confirmado { set; get; }
 
         
-        public Agendamento(
-            int IdPaciente,
-            int IdDentista,
-            int IdSala,
-            DateTime Data
-        ) : this(++ID, IdPaciente, IdDentista, IdSala, Data)
-        {
-            this.Id = Id;
-            this.IdPaciente = IdPaciente;
-            this.Paciente = Paciente.GetPacientes().Find(Paciente => Paciente.Id == IdPaciente);
-            this.IdDentista = IdDentista;
-            this.Dentista = Dentista.GetDentistas().Find(Dentista => Dentista.Id == IdDentista);
-            this.IdSala = IdSala;
-            this.Sala = Sala.GetSalas().Find(Sala => Sala.Id == IdSala);
-            this.Data = Data;
-        }
+        public Agendamento() { }
 
-        private Agendamento(
-            int Id,
-            int IdPaciente,
-            int IdDentista,
-            int IdSala,
+        public Agendamento(
+            int PacienteId,
+            int DentistaId,
+            int SalaId,
             DateTime Data
         )
         {
-            this.Id = Id;
-            this.IdPaciente = IdPaciente;
-            this.Paciente = Paciente.GetPacientes().Find(Paciente => Paciente.Id == IdPaciente);
-            this.IdDentista = IdDentista;
-            this.Dentista = Dentista.GetDentistas().Find(Dentista => Dentista.Id == IdDentista);
-            this.IdSala = IdSala;
-            this.Sala = Sala.GetSalas().Find(Sala => Sala.Id == IdSala);
-            this.Data = Data;
-            Agendamentos.Add(this);
+            this.PacienteId = PacienteId;
+            this.Pacientes = Paciente.GetPacientes().Find(Paciente => Paciente.Id == PacienteId);
+            this.DentistaId = DentistaId;
+            this.Dentistas = Dentista.GetDentistas().Find(Dentista => Dentista.Id == DentistaId);
+            this.SalaId = SalaId;
+            this.Sala = Sala.GetSalas().Find(Sala => Sala.Id == SalaId);
+            this.Datas = Data;
+
+            Context db = new Context();
+            db.Agendamentos.Add(this);
+            db.SaveChanges();
         }
 
         public override string ToString()
         {
             return $"ID: {this.Id}"
-                + $"\nPaciente: {this.Paciente.Nome}"
-                + $"\nDentista: {this.Dentista.Nome}"
+                + $"\nPaciente: {this.Pacientes.Nome}"
+                + $"\nDentista: {this.Dentistas.Nome}"
                 + $"\nSala: {this.Sala.Numero}"
-                + $"\nData: {this.Data}"
+                + $"\nData: {this.Datas}"
                 + $"\nConfirmado: {(this.Confirmado ? "Sim" : "Não")}"
                 + $"\nTotal: R$ {AgendamentoProcedimento.GetTotalPorAgendamento(this.Id)}"
                 + $"\n{AgendamentoProcedimento.ImprimirPorAgendamento(this.Id)}";
@@ -83,14 +78,16 @@ namespace Models
 
         public static List<Agendamento> GetAgendamentos()
         {
-            return Agendamentos;
+            Context db = new Context();
+            return (from Agendamento in db.Agendamentos select Agendamento).ToList();
         }
    
         public static void RemoverAgendamento(
             Agendamento agendamento
         )
         {
-            Agendamentos.Remove(agendamento);
+            Context db = new Context();
+            db.Agendamentos.Remove(agendamento);
         }
     }
 }
