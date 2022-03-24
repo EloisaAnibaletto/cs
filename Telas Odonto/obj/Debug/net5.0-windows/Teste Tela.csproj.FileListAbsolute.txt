@@ -1,0 +1,32 @@
+C:\Users\eloisa.anibaletto\Desktop\Teste Tela\bin\Debug\net5.0-windows\Teste Tela.exe
+C:\Users\eloisa.anibaletto\Desktop\Teste Tela\bin\Debug\net5.0-windows\Teste Tela.deps.json
+C:\Users\eloisa.anibaletto\Desktop\Teste Tela\bin\Debug\net5.0-windows\Teste Tela.runtimeconfig.json
+C:\Users\eloisa.anibaletto\Desktop\Teste Tela\bin\Debug\net5.0-windows\Teste Tela.runtimeconfig.dev.json
+C:\Users\eloisa.anibaletto\Desktop\Teste Tela\bin\Debug\net5.0-windows\Teste Tela.dll
+C:\Users\eloisa.anibaletto\Desktop\Teste Tela\bin\Debug\net5.0-windows\ref\Teste Tela.dll
+C:\Users\eloisa.anibaletto\Desktop\Teste Tela\bin\Debug\net5.0-windows\Teste Tela.pdb
+C:\Users\eloisa.anibaletto\Desktop\Teste Tela\obj\Debug\net5.0-windows\Teste Tela.csproj.AssemblyReference.cache
+C:\Users\eloisa.anibaletto\Desktop\Teste Tela\obj\Debug\net5.0-windows\Teste Tela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eloisa.anibaletto\Desktop\Teste Tela\obj\Debug\net5.0-windows\Teste Tela.AssemblyInfoInputs.cache
+C:\Users\eloisa.anibaletto\Desktop\Teste Tela\obj\Debug\net5.0-windows\Teste Tela.AssemblyInfo.cs
+C:\Users\eloisa.anibaletto\Desktop\Teste Tela\obj\Debug\net5.0-windows\Teste Tela.csproj.CoreCompileInputs.cache
+C:\Users\eloisa.anibaletto\Desktop\Teste Tela\obj\Debug\net5.0-windows\Teste Tela.dll
+C:\Users\eloisa.anibaletto\Desktop\Teste Tela\obj\Debug\net5.0-windows\ref\Teste Tela.dll
+C:\Users\eloisa.anibaletto\Desktop\Teste Tela\obj\Debug\net5.0-windows\Teste Tela.pdb
+C:\Users\eloisa.anibaletto\Desktop\Teste Tela\obj\Debug\net5.0-windows\Teste Tela.genruntimeconfig.cache
+C:\Users\eloisa.anibaletto\Desktop\tela\bin\Debug\net5.0-windows\Teste Tela.exe
+C:\Users\eloisa.anibaletto\Desktop\tela\bin\Debug\net5.0-windows\Teste Tela.deps.json
+C:\Users\eloisa.anibaletto\Desktop\tela\bin\Debug\net5.0-windows\Teste Tela.runtimeconfig.json
+C:\Users\eloisa.anibaletto\Desktop\tela\bin\Debug\net5.0-windows\Teste Tela.runtimeconfig.dev.json
+C:\Users\eloisa.anibaletto\Desktop\tela\bin\Debug\net5.0-windows\Teste Tela.dll
+C:\Users\eloisa.anibaletto\Desktop\tela\bin\Debug\net5.0-windows\ref\Teste Tela.dll
+C:\Users\eloisa.anibaletto\Desktop\tela\bin\Debug\net5.0-windows\Teste Tela.pdb
+C:\Users\eloisa.anibaletto\Desktop\tela\obj\Debug\net5.0-windows\Teste Tela.csproj.AssemblyReference.cache
+C:\Users\eloisa.anibaletto\Desktop\tela\obj\Debug\net5.0-windows\Teste Tela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eloisa.anibaletto\Desktop\tela\obj\Debug\net5.0-windows\Teste Tela.AssemblyInfoInputs.cache
+C:\Users\eloisa.anibaletto\Desktop\tela\obj\Debug\net5.0-windows\Teste Tela.AssemblyInfo.cs
+C:\Users\eloisa.anibaletto\Desktop\tela\obj\Debug\net5.0-windows\Teste Tela.csproj.CoreCompileInputs.cache
+C:\Users\eloisa.anibaletto\Desktop\tela\obj\Debug\net5.0-windows\Teste Tela.dll
+C:\Users\eloisa.anibaletto\Desktop\tela\obj\Debug\net5.0-windows\ref\Teste Tela.dll
+C:\Users\eloisa.anibaletto\Desktop\tela\obj\Debug\net5.0-windows\Teste Tela.pdb
+C:\Users\eloisa.anibaletto\Desktop\tela\obj\Debug\net5.0-windows\Teste Tela.genruntimeconfig.cache

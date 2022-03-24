@@ -1,0 +1,40 @@
+C:\Users\milena.muchenski\Desktop\tela\bin\Debug\netcoreapp3.1\Tela.exe
+C:\Users\milena.muchenski\Desktop\tela\bin\Debug\netcoreapp3.1\Tela.deps.json
+C:\Users\milena.muchenski\Desktop\tela\bin\Debug\netcoreapp3.1\Tela.runtimeconfig.json
+C:\Users\milena.muchenski\Desktop\tela\bin\Debug\netcoreapp3.1\Tela.runtimeconfig.dev.json
+C:\Users\milena.muchenski\Desktop\tela\bin\Debug\netcoreapp3.1\Tela.dll
+C:\Users\milena.muchenski\Desktop\tela\bin\Debug\netcoreapp3.1\Tela.pdb
+C:\Users\milena.muchenski\Desktop\tela\obj\Debug\netcoreapp3.1\Tela.csprojAssemblyReference.cache
+C:\Users\milena.muchenski\Desktop\tela\obj\Debug\netcoreapp3.1\Tela.AssemblyInfoInputs.cache
+C:\Users\milena.muchenski\Desktop\tela\obj\Debug\netcoreapp3.1\Tela.AssemblyInfo.cs
+C:\Users\milena.muchenski\Desktop\tela\obj\Debug\netcoreapp3.1\Tela.csproj.CoreCompileInputs.cache
+C:\Users\milena.muchenski\Desktop\tela\obj\Debug\netcoreapp3.1\Tela.dll
+C:\Users\milena.muchenski\Desktop\tela\obj\Debug\netcoreapp3.1\Tela.pdb
+C:\Users\milena.muchenski\Desktop\tela\obj\Debug\netcoreapp3.1\Tela.genruntimeconfig.cache
+C:\Users\eloisa.anibaletto\Desktop\Telas valendo\bin\Debug\netcoreapp3.1\Tela.exe
+C:\Users\eloisa.anibaletto\Desktop\Telas valendo\bin\Debug\netcoreapp3.1\Tela.deps.json
+C:\Users\eloisa.anibaletto\Desktop\Telas valendo\bin\Debug\netcoreapp3.1\Tela.runtimeconfig.json
+C:\Users\eloisa.anibaletto\Desktop\Telas valendo\bin\Debug\netcoreapp3.1\Tela.runtimeconfig.dev.json
+C:\Users\eloisa.anibaletto\Desktop\Telas valendo\bin\Debug\netcoreapp3.1\Tela.dll
+C:\Users\eloisa.anibaletto\Desktop\Telas valendo\bin\Debug\netcoreapp3.1\Tela.pdb
+C:\Users\eloisa.anibaletto\Desktop\Telas valendo\obj\Debug\netcoreapp3.1\Tela.csproj.AssemblyReference.cache
+C:\Users\eloisa.anibaletto\Desktop\Telas valendo\obj\Debug\netcoreapp3.1\Tela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eloisa.anibaletto\Desktop\Telas valendo\obj\Debug\netcoreapp3.1\Tela.AssemblyInfoInputs.cache
+C:\Users\eloisa.anibaletto\Desktop\Telas valendo\obj\Debug\netcoreapp3.1\Tela.AssemblyInfo.cs
+C:\Users\eloisa.anibaletto\Desktop\Telas valendo\obj\Debug\netcoreapp3.1\Tela.csproj.CoreCompileInputs.cache
+C:\Users\eloisa.anibaletto\Desktop\Telas valendo\obj\Debug\netcoreapp3.1\Tela.dll
+C:\Users\eloisa.anibaletto\Desktop\Telas valendo\obj\Debug\netcoreapp3.1\Tela.pdb
+C:\Users\eloisa.anibaletto\Desktop\Telas valendo\obj\Debug\netcoreapp3.1\Tela.genruntimeconfig.cache
+C:\Users\eloisa\Desktop\Telas valendo\obj\Debug\netcoreapp3.1\Tela.csprojAssemblyReference.cache
+C:\Users\eloisa\Desktop\Telas valendo\obj\Debug\netcoreapp3.1\Tela.AssemblyInfoInputs.cache
+C:\Users\eloisa\Desktop\Telas valendo\obj\Debug\netcoreapp3.1\Tela.AssemblyInfo.cs
+C:\Users\eloisa\Desktop\Telas valendo\obj\Debug\netcoreapp3.1\Tela.csproj.CoreCompileInputs.cache
+C:\Users\eloisa\Desktop\Telas valendo\obj\Debug\netcoreapp3.1\Tela.dll
+C:\Users\eloisa\Desktop\Telas valendo\obj\Debug\netcoreapp3.1\Tela.pdb
+C:\Users\eloisa\Desktop\Telas valendo\bin\Debug\netcoreapp3.1\Tela.exe
+C:\Users\eloisa\Desktop\Telas valendo\bin\Debug\netcoreapp3.1\Tela.deps.json
+C:\Users\eloisa\Desktop\Telas valendo\bin\Debug\netcoreapp3.1\Tela.runtimeconfig.json
+C:\Users\eloisa\Desktop\Telas valendo\bin\Debug\netcoreapp3.1\Tela.runtimeconfig.dev.json
+C:\Users\eloisa\Desktop\Telas valendo\bin\Debug\netcoreapp3.1\Tela.dll
+C:\Users\eloisa\Desktop\Telas valendo\bin\Debug\netcoreapp3.1\Tela.pdb
+C:\Users\eloisa\Desktop\Telas valendo\obj\Debug\netcoreapp3.1\Tela.genruntimeconfig.cache

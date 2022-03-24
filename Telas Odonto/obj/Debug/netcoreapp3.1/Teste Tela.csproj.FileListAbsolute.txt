@@ -1,0 +1,13 @@
+C:\Users\milena.muchenski\Desktop\tela\obj\Debug\netcoreapp3.1\Teste Tela.csprojAssemblyReference.cache
+C:\Users\milena.muchenski\Desktop\tela\obj\Debug\netcoreapp3.1\Teste Tela.AssemblyInfoInputs.cache
+C:\Users\milena.muchenski\Desktop\tela\obj\Debug\netcoreapp3.1\Teste Tela.AssemblyInfo.cs
+C:\Users\milena.muchenski\Desktop\tela\obj\Debug\netcoreapp3.1\Teste Tela.csproj.CoreCompileInputs.cache
+C:\Users\milena.muchenski\Desktop\tela\bin\Debug\netcoreapp3.1\Teste Tela.exe
+C:\Users\milena.muchenski\Desktop\tela\bin\Debug\netcoreapp3.1\Teste Tela.deps.json
+C:\Users\milena.muchenski\Desktop\tela\bin\Debug\netcoreapp3.1\Teste Tela.runtimeconfig.json
+C:\Users\milena.muchenski\Desktop\tela\bin\Debug\netcoreapp3.1\Teste Tela.runtimeconfig.dev.json
+C:\Users\milena.muchenski\Desktop\tela\bin\Debug\netcoreapp3.1\Teste Tela.dll
+C:\Users\milena.muchenski\Desktop\tela\bin\Debug\netcoreapp3.1\Teste Tela.pdb
+C:\Users\milena.muchenski\Desktop\tela\obj\Debug\netcoreapp3.1\Teste Tela.dll
+C:\Users\milena.muchenski\Desktop\tela\obj\Debug\netcoreapp3.1\Teste Tela.pdb
+C:\Users\milena.muchenski\Desktop\tela\obj\Debug\netcoreapp3.1\Teste Tela.genruntimeconfig.cache
